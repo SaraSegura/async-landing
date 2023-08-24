@@ -26,8 +26,8 @@ async function fetchData(urlApi) {
           <img src="${video.snippet.thumbnails.high.url}" alt="${video.snippet.description}" class="w-full">
         </div>
         <div class="mt-4 flex justify-between">
-          <h3 class="text-sm text-gray-700">
-            <span aria-hidden="true" class="absolute inset-0"></span>
+          <h3 class="text-sm text-emerald-50">
+            <span aria-hidden="true" class="absolute inset-0 "></span>
             ${video.snippet.title}
           </h3>
         </div>
