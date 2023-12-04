@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a Amanos a Estudio Ghibli, Esta sencilla página web utiliza JavaScript para consumir la API de YouTube y mostrar información relacionada con tus películas favoritas de Studio Ghibli. El diseño elegante ha sido logrado con Tailwind CSS, brindando una experiencia visual agradable y moderna.
 
-<img src="https://github.com/sarasegura/async-landing/assets/137323950/e52464f2-8341-40c9-b587-185afe00508b" width="300" height="300" >
+<img src="https://github.com/sarasegura/async-landing/assets/137323950/e52464f2-8341-40c9-b587-185afe00508b" width="300" height="200" >
 
 ## Descripción
 
